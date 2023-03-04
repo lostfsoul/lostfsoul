@@ -10,5 +10,4 @@ my name is moe and i'm a machine learning engineer (NLP)
 - 💬 Ask me about anything related to Machine-learning
 - 📫 How to find me: 
 - :bulb: [Medium articles]()
-- :pencil2: [Daily Tips](https://mathdatasimplified.com/)
-- :office: [LinkedIn]()
+- :office: [LinkedIn](https://www.linkedin.com/in/moe-amrani/)
