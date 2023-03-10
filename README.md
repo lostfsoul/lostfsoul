@@ -11,4 +11,4 @@ My Name is Moe and I'm a Machine Learning Engineer (NLP)
 - 📫 How to find me: 
 
 <a href="http://www.github.com/lostfsoul">![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/moe-amrani/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/moe-el-amrani/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
