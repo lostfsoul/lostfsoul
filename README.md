@@ -20,11 +20,14 @@
   → MLOps Best Practices  
   → Data Mesh Architectures
 
-- 💡 **Ask Me About**:  
-  → Data Pipeline Optimization  
-  → Workflow Orchestration (Airflow/Prefect)  
-  → Cloud Data Solutions (AWS/GCP)  
-  → NLP-Powered Data Extraction
+💡 **Ask Me About**:  
+→ Data Pipeline Optimization  
+→ Workflow Orchestration (Airflow/Prefect)  
+→ Cloud Data Solutions (AWS/GCP)  
+→ 🤖 Building LLM-Powered Apps - From Chatbots to Enterprise AI Solutions  
+→ 🧩 Designing End-to-End AI Systems with Production-Grade Architecture  
+→ ⚡️ Turning Prototypes into Scalable AI Services (RAG, Fine-Tuning, Deployment)  
+→ 🔍 The Art of Making Models & Data Pipelines Play Nice Together
 
 - 🚀 **Recent Achievements**:  
   → Designed a distributed web scraping system handling 50k+ requests/day  
