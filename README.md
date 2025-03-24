@@ -36,8 +36,8 @@
 
 - 📫 **Let's Connect**:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moe-el-amrani/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-site.com)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lostfsoul.github.io/moe-pf/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moe.elamrani@gmail.com)
 
 - ⚡ **When Not Engineering**:  
   → 🎮 Conquering virtual worlds in RPG/strategy games  
